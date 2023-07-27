@@ -1,15 +1,23 @@
-<h1 align="center">Hi 👋, I'm Juan Cruz Roldan</h1>
-<h3 align="center">A passionate full stack web developer from Buenos Aires</h3>
+## About Me
 
-- 🌱 I’m currently learning **TypeScript** and **Next.js**
+👋 Hello there! I'm Juan Cruz Roldan, a passionate and data-driven full-stack web developer with a love for understanding businesses and solving their challenges through technology. 
 
-- 📫 How to reach me **juancruz.roldan19@gmail.com**
+### What Defines Me:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 📊 Data-Driven: I believe in making decisions based on data and insights. I use analytics and metrics to guide my development process, ensuring that my solutions are effective and impactful.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/juancruzroldan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juancruzroldan" height="30" width="40" /></a>
-</p>
+- 🎯 Results-Oriented: I'm always focused on delivering results and achieving the goals set for each project. I take ownership of my tasks and projects to ensure successful outcomes.
 
+- 👨‍💻 Team Player: Collaboration is key to creating remarkable solutions. I thrive in team environments, where I can contribute my skills, learn from others, and work towards a common goal.
+
+- 🚀 Technology Implementation: I'm passionate about using technology to drive innovation and bring efficient solutions to real-world problems. I love transforming ideas into functional applications.
+
+### How I Approach Work:
+
+I approach each project with a strategic mindset, understanding not only the technical requirements but also the underlying business needs. By gaining a deep understanding of the business context, I can design and develop solutions that align with the overall vision.
+
+### Let's Connect:
+
+I'm always open to new opportunities, collaborations, and discussions. If you'd like to explore how we can work together or just chat about technology and business, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/juancruzroldan) or [email](mailto:juancruz.roldan19@gmail.com).
+
+Looking forward to making a positive impact with technology and teamwork!
