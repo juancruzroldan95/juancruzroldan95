@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Cruz Roldan</h1>
 <h3 align="center">A passionate full stack web developer from Buenos Aires</h3>
 
-- 🔭 I’m currently working on [Gym Go](https://gym-go-five.vercel.app/)
-
-- 🌱 I’m currently learning **MongoDB and Next.js**
+- 🌱 I’m currently learning **TypeScript** and **Next.js**
 
 - 📫 How to reach me **juancruz.roldan19@gmail.com**
 
