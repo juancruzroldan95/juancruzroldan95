@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Hello there! I'm Juan Cruz Roldan, a passionate and data-driven full-stack web developer with a love for understanding businesses and solving their challenges through technology. 
+👋 Hello there! I'm Juan Cruz Roldan, a full-stack web developer with a love for understanding businesses and solving their challenges through technology. 
 
 ### What Defines Me:
 
