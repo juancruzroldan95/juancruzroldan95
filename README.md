@@ -33,4 +33,4 @@
 <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/> </a>
 
 ---
-#### Let's Connect in [LinkedIn](https://www.linkedin.com/in/juancruzroldan)!
+### Let's Connect in [LinkedIn](https://www.linkedin.com/in/juancruzroldan)!
