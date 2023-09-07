@@ -2,7 +2,7 @@
 
 👋 Hi! I'm Juan Cruz, a Full Stack web developer with deep focus on Back End development. Love designing and modeling databases, crafting RESTful APIs, integrations and documenting what I do and discover.
 
-🔭 I'm actually working on Energialy proyect, a digital platform to empower the Energy Industry of [Vaca Muerta](https://en.wikipedia.org/wiki/Vaca_Muerta). 
+🔭 I'm actually working on Energialy project, a digital platform to empower the Energy Industry of [Vaca Muerta](https://en.wikipedia.org/wiki/Vaca_Muerta). 
 
 ### 🚀 My tech stack!
 
