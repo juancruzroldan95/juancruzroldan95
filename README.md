@@ -1,38 +1,41 @@
 ## About Me
 
-👋 Hi! I'm Juan Cruz, a Full Stack web developer with deep focus on Back End development. Love designing and modeling databases, crafting RESTful APIs, integrations and documenting what I do and discover.
+👋 Hi! I'm Juan Cruz, a Full Stack web developer with experience in Growth Hacking.
 
-🔭 I'm actually working on Energialy project, a digital platform to empower the Energy Industry of [Vaca Muerta](https://en.wikipedia.org/wiki/Vaca_Muerta). 
+One day, I am going to create my own portfolio, but for now, this is my portfolio 😅
 
-### 🚀 My tech stack!
+🔭 I am doggedly focused on the user, working to make sure as many people as possible experience the core benefit of the product. I focus on using data and experimentation to improve parts of the platform or app. I often need to "hack" short-term solutions quickly to understand whether an idea is worth a bigger, long-term investment.
 
-#### Programming languages:
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> </a>
-  
-### 🛠️ Back End development:
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
-
-### 🖥️ Front End development:
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-
-### My favourite tools:
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
-<a href="https://www.lucidchart.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/lucidchart/lucidchart-icon.svg" alt="lucidchart" width="40" height="40"/> </a>
-<a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/> </a>
+💻 I'm actually working on **DealFlow project**, an end-to-end solution for private market investments.
 
 ---
-### Let's Connect in [LinkedIn](https://www.linkedin.com/in/juancruzroldan)!
+### Projects
+
+#### 🚀 [Power-Button](https://power-button.vercel.app/)
+
+Final Project of the Next.js course at Coderhouse.
+Power Button is an e-commerce built with Next.js, integrating authentication services and databases, with optimal performance on SEO optimization.
+
+Tech Stack:
+- **Next.js** as the React framework
+- **Tailwind** as the CSS framework
+- Next.js API Routes for server-side API routes as the backend
+- **Firestore** as the database
+- **Firebase Auth** for authentication
+- **TypeScript** as the programming language
+- Vercel for deployment
+
+#### 🚀 [Energialy](https://energialy.ar/)
+
+Energialy is a platform to empower the energy industry and connect with the value chain in Vaca Muerta. It allows startups to manage their own tenders, make their services visible, and access financial services.
+
+I was responsible for the backend development, making:
+- Database entity-relationship model
+- CRUD REST API with **Node.js** & **Express** + **Postgres**, with **Sequelize** as the ORM.
+- Authentication & Authorization middleware with **JWT**, managing cookies and sessions.
+- Mailing with [Resend.js](https://resend.com/)
+- Integration with Banco de Comercio.
+- API Documentation
+
+---
+💼 Feel free to review my professional experience on my [LinkedIn profile](https://www.linkedin.com/in/juancruzroldan) and connect with me!
