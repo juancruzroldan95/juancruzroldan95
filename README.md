@@ -4,7 +4,7 @@
 
 One day, I am going to create my own portfolio, but for now, this is my portfolio 😅
 
-🔭 I am doggedly focused on the user, working to make sure as many people as possible experience the core benefit of the product. I focus on using data and experimentation to improve parts of the platform or app. I often need to "hack" short-term solutions quickly to understand whether an idea is worth a bigger, long-term investment.
+🔭 I am doggedly focused on the user, working to make sure as many people as possible experience the core benefit of the product. I focus on using data and experimentation to improve parts of the platform. I often need to "hack" short-term solutions quickly to understand whether an idea is worth a bigger, long-term investment.
 
 💻 I'm actually working on **DealFlow project**, an end-to-end solution for private market investments.
 
@@ -33,7 +33,7 @@ I was responsible for the backend development, making:
 - Database entity-relationship model
 - CRUD REST API with **Node.js** & **Express** + **Postgres**, with **Sequelize** as the ORM.
 - Authentication & Authorization middleware with **JWT**, managing cookies and sessions.
-- Mailing with [Resend.js](https://resend.com/)
+- Mailing with **Resend.js**
 - Integration with Banco de Comercio.
 - API Documentation
 
