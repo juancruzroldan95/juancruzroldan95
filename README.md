@@ -6,7 +6,7 @@ One day, I am going to create my own portfolio, but for now, this is my portfoli
 
 🔭 I am doggedly focused on the user, working to make sure as many people as possible experience the core benefit of the product. I focus on using data and experimentation to improve parts of the platform. I often need to "hack" short-term solutions quickly to understand whether an idea is worth a bigger, long-term investment.
 
-💻 I'm actually working on **DealFlow project**, an end-to-end solution for private market investments.
+💻 I'm actually working on **[DealFlow](https://www.trydealflow.com/) project**, an end-to-end solution for private market investments.
 
 ---
 ### Projects
