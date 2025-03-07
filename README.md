@@ -1,41 +1,18 @@
-## About Me
+<h1 align="center">Hi 👋, I'm Juan Cruz Roldan</h1>
+<h3 align="center">A full-stack web developer from Buenos Aires, Argentina</h3>
 
-👋 Hi! I'm Juan Cruz, a Full Stack web developer with experience in Growth Hacking.
+- 🔭 I’m currently working on [Taktiful](https://www.taktify.ai/)
 
-One day, I am going to create my own portfolio, but for now, this is my portfolio 😅
+- 🌱 I’m currently learning **C++**
 
-🔭 I am doggedly focused on the user, working to make sure as many people as possible experience the core benefit of the product. I focus on using data and experimentation to improve parts of the platform. I often need to "hack" short-term solutions quickly to understand whether an idea is worth a bigger, long-term investment.
+- 👨‍💻 All of my projects are available at [jcroldan.dev](jcroldan.dev)
 
-💻 I'm actually working on **[DealFlow](https://www.trydealflow.com/) project**, an end-to-end solution for private market investments.
+- 📝 I regularly write articles on [https://dev.to/juancruzroldan](https://dev.to/juancruzroldan)
 
----
-### Projects
+- 💬 Ask me about **nothing related to web development**
 
-#### 🚀 [Power-Button](https://power-button.vercel.app/)
+- 📫 How to reach me **juancruz.roldan19@gmail.com**
 
-Final Project of the Next.js course at Coderhouse.
-Power Button is an e-commerce built with Next.js, integrating authentication services and databases, with optimal performance on SEO optimization.
+- 📄 Know about my experiences [https://www.linkedin.com/in/juancruzroldan/](https://www.linkedin.com/in/juancruzroldan/)
 
-Tech Stack:
-- **Next.js** as the React framework
-- **Tailwind** as the CSS framework
-- Next.js API Routes for server-side API routes as the backend
-- **Firestore** as the database
-- **Firebase Auth** for authentication
-- **TypeScript** as the programming language
-- Vercel for deployment
-
-#### 🚀 [Energialy](https://energialy.ar/)
-
-Energialy is a platform to empower the energy industry and connect with the value chain in Vaca Muerta. It allows startups to manage their own tenders, make their services visible, and access financial services.
-
-I was responsible for the backend development, making:
-- Database entity-relationship model
-- CRUD REST API with **Node.js** & **Express** + **Postgres**, with **Sequelize** as the ORM.
-- Authentication & Authorization middleware with **JWT**, managing cookies and sessions.
-- Mailing with **Resend.js**
-- Integration with Banco de Comercio.
-- API Documentation
-
----
-💼 Feel free to review my professional experience on my [LinkedIn profile](https://www.linkedin.com/in/juancruzroldan) and connect with me!
+- ⚡ Fun fact **aguante Boca**
