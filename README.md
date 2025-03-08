@@ -9,10 +9,8 @@
 
 - 📝 I regularly write articles [**here**](https://dev.to/juancruzroldan)
 
-- 💬 Ask me about **nothing related to web development**
+- 💬 Ask me about **Breaking Bad** and **Boca Juniors**
 
 - 📫 You can reach me [**here**](mailto:juancruz.roldan19@gmail.com)
 
 - 📄 Know about my experiences [**here**](https://www.linkedin.com/in/juancruzroldan/)
-
-- ⚡ Fun fact **aguante Boca**
