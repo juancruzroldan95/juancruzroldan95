@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Cruz Roldan</h1>
 <h3 align="center">A full-stack web developer from Buenos Aires, Argentina</h3>
 
-- 🔭 I’m currently working at [Taktiful](https://www.taktify.ai/)
+- 🔭 I’m currently working at [**Taktiful**](https://www.taktify.ai/)
 
 - 🌱 I’m currently learning **C++**
 
