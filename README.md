@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [**Taktiful**](https://www.taktify.ai/)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Python + AI**
 
 - 👨‍💻 All of my projects are available [**here**](https://jcroldan.dev)
 
