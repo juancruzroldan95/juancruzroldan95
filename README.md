@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles [**here**](https://dev.to/juancruzroldan)
 
-- 💬 Ask me about **Breaking Bad** and **Boca Juniors**
+- 💬 Ask me about **Breaking Bad** and the **Red Hot Chili Peppers**
 
 - 📫 You can reach me [**here**](mailto:juancruz.roldan19@gmail.com)
 
