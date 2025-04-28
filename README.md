@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working at [**Taktiful**](https://www.taktify.ai/)
 
-- 🌱 I’m currently learning **Python + AI**
+- 🌱 I’m currently learning **GenAI**
 
 - 👨‍💻 All of my projects are available [**here**](https://jcroldan.dev)
 
 - 📝 I regularly write articles [**here**](https://dev.to/juancruzroldan)
 
-- 💬 Ask me about **Breaking Bad** and the **Red Hot Chili Peppers**
+- 💬 Ask me about the **Red Hot Chili Peppers** and making **asado**
 
 - 📫 You can reach me [**here**](mailto:juancruz.roldan19@gmail.com)
 
